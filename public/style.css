@@ -118,7 +118,7 @@ form.example input[type=text] {
 /* Device Selector */
 .device_selector{
   padding:7%;
-  /* background-image: url("assets/newbanner.png"); */
+  background-image: url("assets/newbanner.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -461,7 +461,7 @@ footer{
   
   .device_selector{
     padding:7%;
-    /* background-image: url("assets/newbanner.png"); */
+    background-image: url("assets/newbanner.png");
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -469,7 +469,7 @@ footer{
 
 @media (max-width: 900px){
   .device_selector{
-    /* background-image: url("assets/newbanner.png"); */
+    background-image: url("assets/newbanner.png");
     background-size: cover;
     background-repeat: no-repeat;
   }
